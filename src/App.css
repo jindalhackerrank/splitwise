@@ -28,6 +28,22 @@
   color: #61dafb;
 }
 
+.balance-row{
+  margin-bottom: 20px;
+}
+.balance-top-row{
+  margin-bottom: 5px;
+}
+
+.ib{
+  display: inline-block;
+  margin-right:  5px;
+}
+
+.settler{
+  margin-right: 15px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
